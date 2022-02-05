@@ -16,9 +16,13 @@
 ```bash
 wget https://api.gslk.ga/v1/wget/jar/TLauncher-2.841.zip
 ```
+
+2. Caso não funcione [clique aqui](/launcher).
+
+
 <Br>
 
-2. Extraia o **TLauncher** para executar:
+3. Extraia o **TLauncher** para executar:
 
 ```bash
 unzip TLauncher-2.841.zip
