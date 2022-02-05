@@ -1,6 +1,8 @@
 # ☁️ Minecraft Cloud
 
-### Instalação
+### Criando um projeto:
+
+### Instalação:
 
 1) baixe o [tlauncher](https://tlauncher.org) com o comando abaixo:
 
